@@ -1,0 +1,62 @@
+.circular--square {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  margin-left: 500px;
+  margin-top: 70px;
+
+}
+
+.otsikko {
+  width: 1000px;
+  height: 100px;
+  background: white;
+  position:relative;
+  text-align: center;
+  font-family: Maghony;
+  padding-top: 20px;
+  font-weight:normal;
+  font-size: 15px;
+  padding-left: 150px;
+   
+}
+
+
+
+.main {
+  width: 500px;
+  background: white;
+  font-family: URW Gothic L;
+  font-weight:normal;
+  position: relative;
+  margin-left: 300px;
+  margin-bottom: -100px;
+  margin-top: 40px;
+  padding-top: 20px;
+  padding-left: 100px;
+  float:left;
+}
+
+
+
+.profiili {
+  width: 600px;
+  font-family: URW Gothic L;
+  font-weight:normal;
+  text-align: center;
+  position: relative;
+  margin-top: -100px;
+  padding-top: 50px;
+  margin-left: 350px;
+  float:left;
+}
+
+
+.yhteystiedot {
+  width: 300px;
+  height: 300px;
+  background-color: #d9f2d9;
+  font-family: URW Gothic L;
+  font-weight:normal;
+  
+}
