@@ -7,17 +7,23 @@
 
 }
 
+@font-face {
+    font-family: Maghony;
+    src: Maghony.ttf;
+}
+
 .otsikko {
-  width: 1000px;
   height: 100px;
-  background: white;
   position:relative;
   text-align: center;
-  font-family: Maghony;
+  font-family: Maghony; 
   padding-top: 20px;
   font-weight:normal;
   font-size: 15px;
-  padding-left: 150px;
+  padding-left: 50px;
+  margin-top: -350px;
+  margin-left: -900px;
+  
    
 }
 
@@ -29,34 +35,42 @@
   font-family: URW Gothic L;
   font-weight:normal;
   position: relative;
-  margin-left: 300px;
+  margin-left: 500px;
   margin-bottom: -100px;
   margin-top: 40px;
   padding-top: 20px;
   padding-left: 100px;
   float:left;
+  color: #006666;
 }
 
 
 
 .profiili {
-  width: 600px;
+  width: 1270px;
   font-family: URW Gothic L;
   font-weight:normal;
   text-align: center;
   position: relative;
-  margin-top: -100px;
+  margin-top: 250px;
   padding-top: 50px;
-  margin-left: 350px;
+  padding-bottom: 50px;
+  margin-left: 0px;
   float:left;
+  background:#006666;
+  color: white;
 }
+
+
 
 
 .yhteystiedot {
   width: 300px;
   height: 300px;
-  background-color: #d9f2d9;
   font-family: URW Gothic L;
   font-weight:normal;
+  border-style: inset;
+  border-color: #e6e6e6; 
+  margin-top: -150px;
   
 }
