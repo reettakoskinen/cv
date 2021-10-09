@@ -1,3 +1,10 @@
+
+h2 { text-transform: uppercase;
+     color: #b34700; }
+h3 { text-transform: uppercase;
+     color: #b34700; }
+
+
 .kuva {
   width: 373,5px;
   height: 400px;
@@ -10,12 +17,12 @@
 
 .otsikko {
   position: absolute;
-  font-family: Maghony; 
+  font-family: 'Abril Fatface', cursive;
   font-weight:normal;
-  font-size: 15px;
-  margin-top: 100px;
-  margin-left: 300px;
-  color: #073218;
+  font-size: 25px;
+  margin-top: 50px;
+  margin-left: 50px;
+  color: #D19C97;
   
 }
 
@@ -23,41 +30,40 @@
 
 .main {
   width: 800px;
-  font-family: URW Gothic L;
+  font-family: 'Comfortaa', cursive;
   font-weight:normal;
   position: absolute;
-  margin-left: 900px;
+  margin-left: 50px;
   margin-bottom: -100px;
-  margin-top: 733px;
+  margin-top: 633px;
   padding-top: 20px;
-  padding-left: 100px;
-  float:left;
-  color: #073218;
-  font-size: 30px;
+  color: black;
+  font-size: 20px;
 }
 
 .koulutus {
   width: 500px;
-  margin-top: 750px;
+  margin-top: 650px;
   position: absolute;
-  color: #073218;
-  font-size: 30px;
-  font-family: URW Gothic L;
-  margin-left: 300px;
+  color: black;
+  font-size: 20px;
+  font-family: 'Comfortaa', cursive;
+  margin-left: 950px;
+  float: left;
 }
 
 
 .profiili {
-  width: 1920px;
-  font-family: URW Gothic L;
+  width: 1500px;
+  font-family: 'Comfortaa', cursive;
   font-weight:normal;
   text-align: center;
-  margin-top: 400px;
+  margin-top: 300px;
   padding-bottom: 50px;
   padding-top: 50px;
-  margin-left: 0px;
+  margin-left: -10px;
   float:left;
-  background:#073218;
+  background:#34568B;
   color: white;
   font-size: 20px;
 }
@@ -69,11 +75,11 @@
   width: 300px;
   height: 300px;
   float: left;
-  font-family: URW Gothic L;
+  font-family: 'Comfortaa', cursive;
   font-weight:normal; 
-  margin-top: 180px;
-  margin-left: 300px;
-  color: #073218;
+  margin-top: 150px;
+  margin-left: 50px;
+  color: #black;
   position: absolute;
   
 }
