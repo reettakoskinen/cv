@@ -21,7 +21,7 @@ h3 { text-transform: uppercase;
   font-weight:normal;
   font-size: 25px;
   margin-top: 50px;
-  margin-left: 50px;
+  margin-left: 90px;
   color: #D19C97;
   
 }
@@ -33,9 +33,9 @@ h3 { text-transform: uppercase;
   font-family: 'Comfortaa', cursive;
   font-weight:normal;
   position: absolute;
-  margin-left: 50px;
+  margin-left: 90px;
   margin-bottom: -100px;
-  margin-top: 633px;
+  margin-top: 733px;
   padding-top: 20px;
   color: black;
   font-size: 20px;
@@ -43,7 +43,7 @@ h3 { text-transform: uppercase;
 
 .koulutus {
   width: 500px;
-  margin-top: 650px;
+  margin-top: 750px;
   position: absolute;
   color: black;
   font-size: 20px;
@@ -58,7 +58,7 @@ h3 { text-transform: uppercase;
   font-family: 'Comfortaa', cursive;
   font-weight:normal;
   text-align: center;
-  margin-top: 300px;
+  margin-top: 370px;
   padding-bottom: 50px;
   padding-top: 50px;
   margin-left: -10px;
@@ -78,7 +78,7 @@ h3 { text-transform: uppercase;
   font-family: 'Comfortaa', cursive;
   font-weight:normal; 
   margin-top: 150px;
-  margin-left: 50px;
+  margin-left: 90px;
   color: #black;
   position: absolute;
   
